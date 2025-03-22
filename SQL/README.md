@@ -13,7 +13,7 @@ This folder contains SQL projects completed on DataCamp and the Data Analyst Boo
 
 This project explores trends in American baby names using data from the U.S. Social Security Administration (1920–2020). The analysis includes:  
 - **Classifying Names:** Determining whether names are "Classic" (appearing in 50+ years) or "Trendy."  
-- **Top Male Names:** Identifying the 20 most popular male names and ranking "Paul."  
+- **Top Male Names:** Identifying the 20 most popular male names.
 - **Historical Name Comparisons:** Finding female names that appeared in both 1920 and 2020.
 
 ### 🏍️ Analyzing Motorcycle Part Sales
